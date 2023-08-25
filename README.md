@@ -18,7 +18,7 @@ Follow these steps to start the frontend of the app:
 
 4. Start the development server: `npm run dev`
 
-5. Access the app in your web browser at: `http://localhost:port`
+5. Access the app in your web browser at: `http://localhost:{port}`
 
 ## Backend
 
