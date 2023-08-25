@@ -12,6 +12,7 @@ const router = createBrowserRouter([
 				path: "/chat",
 				element: <Chat />,
 			},
+
 			{
 				path: "/image",
 				element: <Image />,
